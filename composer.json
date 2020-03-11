@@ -1,10 +1,10 @@
 {
-    "name": "socialiteproviders/instagram",
+    "name": "omairafzal/socialite/instagram",
     "description": "Instagram OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Brian Faust",
-        "email": "hello@brianfaust.de"
+        "name": "Omair Afzal",
+        "email": "omair445@live.com"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
