@@ -1,5 +1,5 @@
 {
-    "name": "omairafzal/socialite/instagram",
+    "name": "omairafzal/socialite-instagram",
     "description": "Instagram OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
